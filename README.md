@@ -9,5 +9,5 @@
 
 3. `parity --config node0.toml`
 
-4. go to https://github.com/neversaynever0502/deploy_ethereum_contrac  to do next.
+4. go to https://github.com/neversaynever0502/deploy_ethereum_contract  to do next.
 
